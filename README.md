@@ -1,4 +1,4 @@
-# Fase1-230920-Vinca ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230920-vinca_1066535?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
+# Fase1-230920-Vinca ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230920-vinca_1066535))
 Sopralluogo a Vinca e al sito della Madonna Vecchia
 ## Percorso: Vinca - Madonna Vecchia
 **Sentiero n. 39 fino ai ruderi della chiesa della Madonna Vecchia; ripercorre il tracciato della vecchia mulattiera che collega gli abitati di Vinca e Aiola**
