@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.14125" lon="10.150795">
+    <ele>500</ele>
+    <name>Edicola</name>
+    <desc>Piccola edicola lungo il percorso</desc>
+  </wpt>
+  <wpt lat="44.13999" lon="10.153466">
+    <ele>500</ele>
+    <name>Inizio sentiero 39 da Vinca</name>
+    <desc>Lungo SP 59 di Vinca, sulla sinistra prima dell'abitato di Vinca</desc>
+  </wpt>
+  <wpt lat="44.141128" lon="10.151175">
+    <ele>500</ele>
+    <name>Chiesa della Madonna della Neve</name>
+    <desc>Piccola chiesa di tarda età moderna con facciata a capanna e muratura a vista</desc>
+  </wpt>
+  <wpt lat="44.14293" lon="10.148751">
+    <ele>500</ele>
+    <name>Edicola in rovina</name>
+    <desc>Piccola edicola lungo il percorso in stato di abbandono con la copertura in rovina</desc>
+  </wpt>
+  <wpt lat="44.144504" lon="10.14887">
+    <ele>500</ele>
+    <name>Calcara</name>
+    <desc>Calcara di piccole dimensioni, di forma circolare con piccola apertura alla base, lungo il sentiero 39 tra Vinca e la Madonna Vecchia. Diametro: circa 1,50 m</desc>
+  </wpt>
+  <wpt lat="44.146449" lon="10.14704">
+    <ele>500</ele>
+    <name>Madonna Vecchia di Vinca</name>
+    <desc>Chiesa d'abrì ridotta allo stato di rudere, mancante di tetto, perimetrali SE e SW ridotti a pochi filari, tra cui una porzione riconducibile al basso medioevo, mentre il perimetrale NW e NE si conservano in elevato e presentano ampie tracce di intonaco. A NE dell'edificio, poco sopra il versante si trova una piccola cavità con sorgente con una vasca e canaletta in pietra. Tra i materiali del crollo sono state rinvenute alcune schegge in selce.</desc>
+  </wpt>
+  <trk>
+    <name>Vinca - Madonna Vecchia</name>
+    <desc>Sentiero n. 39 fino ai ruderi della chiesa della Madonna Vecchia; ripercorre il tracciato della vecchia mulattiera che collega gli abitati di Vinca e Aiola</desc>
+    <trkseg>
+      <trkpt lat="[10.153466, 44.13999, 775.4423828125, 1695195057]" lon="[10.153466, 44.13999, 775.442380332388, 1695195048]">
+        <ele>[10.153466, 44.13999, 775.4423828125, 1695195058]</ele>
+      </trkpt>
+      <trkpt lat="[10.151168, 44.141175, 791.7770957369357, 1695195853]" lon="[10.151296, 44.141255, 786.3829345703125, 1695195826]">
+        <ele>[10.151272, 44.141265, 786.5927169816568, 1695195854]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
